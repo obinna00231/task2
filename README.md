@@ -52,6 +52,6 @@ Fulfillment Fractures: Combined structural leakages from Cancelled and Returned 
 ![alt text](https://github.com/obinna00231/task2/blob/738c83a5aac8c2ca18bbe4649d1229968b1e298a/decodelab%20project%202/EDA1.PNG)
 
 3. Key Summary and Observation for EDA Project 2
-![alt text]
+![alt text](https://github.com/obinna00231/task2/blob/5d9621591881816978f35176fa34cc6df815c7c1/decodelab%20project%202/EDA3.PNG)
 
 Maintained and analyzed by obinna ozoemena
