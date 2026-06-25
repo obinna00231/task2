@@ -46,7 +46,7 @@ Fulfillment Fractures: Combined structural leakages from Cancelled and Returned 
 
 1. Descriptive Statistics for EDA Project 2 using Advance Method
 
-![alt text]
+![alt text](https://github.com/obinna00231/task2/blob/8084fdf905305ec8cf985643d5c87f9717424905/decodelab%20project%202/EDA2.PNG)
 
 2. Descriptive Statistics for EDA Project 2 using Basic Method
 ![alt text](https://github.com/obinna00231/task2/blob/738c83a5aac8c2ca18bbe4649d1229968b1e298a/decodelab%20project%202/EDA1.PNG)
